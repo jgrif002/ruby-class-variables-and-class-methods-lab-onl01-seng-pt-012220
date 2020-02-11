@@ -12,10 +12,5 @@ class Song
     @@artist << artist 
   end 
   
-  def count 
-    self.count
-  end 
-  
-  
   
 end 
